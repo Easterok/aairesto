@@ -1,1 +1,0 @@
-import{_ as n,o as t,c as e,n as _,a as s}from"./index-45eddc23.js";const c="_dots_1f4rg_1",a={dots:c,"ark-blink":"_ark-blink_1f4rg_1"},l={},r=s("span",null,".",-1),d=s("span",null,".",-1),i=s("span",null,".",-1),p=[r,d,i];function f(o,k){return t(),e("span",{class:_(o.$style.dots)},p,2)}const u={$style:a},m=n(l,[["render",f],["__cssModules",u]]);export{m as L};
